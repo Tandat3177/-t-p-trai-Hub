@@ -2,7 +2,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Tandat3177/Dead-Rails
 import tkinter as tk
 
 root = tk.Tk()
-root.title("Thông Báo")
+root.title("Hello")
 root.geometry("300x100")
 
 label = tk.Label(root, text="Cali con cặc tuổi lồn", font=("Arial", 20), fg="yellow")
